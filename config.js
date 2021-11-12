@@ -354,7 +354,7 @@
 	"id": "gua_wealth_island",
 	"isConcurrent":false,
 	"cron": "0 10 9,13,16,19,20 2-8 11 * *",
-	"url": "https://raw.githubusercontent.com/shufflewzc/faker2/main/gua_wealth_island.js",
+	"url": "https://ghproxy.com/https://raw.githubusercontent.com/shufflewzc/faker2/main/gua_wealth_island.js",
 	"name": "财富大陆"
 }]
 
