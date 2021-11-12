@@ -6,7 +6,7 @@
 }, {
 	"id": "jd_DailyBonus_Mod",
 	"cron": "0 2 0 * * * *",
-	"url": "https://ghproxy.com/https://raw.githubusercontent.com/shufflewzc/faker2/main/jd_DailyBonus_Mod.js",
+	"url": "https://ghproxy.com/https://raw.githubusercontent.com/small-redguy/helper/main/jdresource/jd_bean_sign.js",
 	"name": "多合一签到"
 }, {
 	"id": "jd_DrawEntrance",
