@@ -276,6 +276,12 @@
 	"url": "https://ghproxy.com/https://raw.githubusercontent.com/yuannian1112/jd_scripts/main/jd_wish.js",
 	"name": "众筹许愿池"
 },{
+    "id": "jd_fanli",
+	"cron": "0 40 0,2 * * * *",
+	"describe":"活动入口：https://ifanli.m.jd.com/rebate/earnBean.html?paltform=null",
+	"url": "https://ghproxy.com/https://raw.githubusercontent.com/shufflewzc/faker2/main/jd_fanli.js",
+	"name": "饭粒"
+},{
     "id": "jd_ddworld",
 	"cron": "0 0 0 * * * *",
 	"describe":"东东世界",
