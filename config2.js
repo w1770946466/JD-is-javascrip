@@ -345,12 +345,6 @@
 	"url": "https://ghproxy.com/https://raw.githubusercontent.com/small-redguy/helper/main/jdresource/jd_superbox.js",
 	"name": "京东超级盒子"
 },{
-	"id": "jd_tw",
-	"isConcurrent":false,
-	"cron": "0 10 9,13,16,19,20 2-8 11 * *",
-	"url": "https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_superBrand.js",
-	"name": "特务z"
-},{
 	"id": "gua_wealth_island",
 	"isConcurrent":false,
 	"cron": "0 10 9,13,16,19,20 2-8 11 * *",
