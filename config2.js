@@ -41,7 +41,7 @@
 }, {
 	"id": "jd_blueCoin",
 	"cron": "55 59 23 * * * *",
-	"url": "https://ghproxy.com/https://raw.githubusercontent.com/shufflewzc/faker2/main/jd_blueCoin.js",
+	"url": "https://ghproxy.com/https://raw.githubusercontent.com/w1770946466/JD-is-javascrip/main/jd_blueCoin.js",
 	"name": "京小超兑换奖品"
 }, {
 	"id": "jd_live_redrain",
